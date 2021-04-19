@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcom Git Repository !!!");
+            Console.WriteLine("Hallo (World) Git Repository !!!");
             Console.WriteLine("my name is Abhijit Suresh Sakharam Pandurang Chitnis");
             Console.ReadLine();
         }
