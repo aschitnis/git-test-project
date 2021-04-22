@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo (World) Git Repository !!!");
-            Console.WriteLine("my email is aschitnis@hotmail.com");
+            Console.WriteLine("Issue-053 is resolved");
             Console.ReadLine();
         }
     }
