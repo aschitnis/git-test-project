@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hallo (World) Git Repository !!!");
             Console.WriteLine("Issue-054 is being resolved....");
 			Console.WriteLine("Hotfix is resolved");
+			Console.WriteLine("Issue-056 is resolving currently....");
+			Console.WriteLine("Issue-056 is resolved....");
             Console.ReadLine();
         }
     }
