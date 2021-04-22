@@ -15,6 +15,7 @@ namespace ConsoleApp1
 			Console.WriteLine("Issue-056 is resolving currently....");
 			Console.WriteLine("Issue-056 is resolved....");
 			Console.WriteLine("Hotfix-01 is resolved");
+			Console.WriteLine("Issue-060 is resolving currently....");
             Console.ReadLine();
         }
     }
