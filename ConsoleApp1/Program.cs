@@ -20,6 +20,7 @@ namespace ConsoleApp1
 			Console.WriteLine("Issue-061 is resolved @22042021 16:08");
 			Console.WriteLine("Issue-061 is resolving currently @22042021 17:08");
 			Console.WriteLine("Gmail-Collaborator has added this Line @23042021 10:56 AM")
+			Console.WriteLine("Gmail-Collaborator has added Currency changes @23042021 11:15 AM")
             Console.ReadLine();
         }
     }
