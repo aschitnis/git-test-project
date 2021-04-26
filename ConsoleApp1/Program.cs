@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hallo (World) Git Repository !!!");
             Console.WriteLine("added class models/impl. data-Containers  26.04.21 17:26 PM");
+            Console.WriteLine("added Collections to store class models/impl. data-Containers  26.04.21 17:29 PM");
             Console.ReadLine();
         }
     }
